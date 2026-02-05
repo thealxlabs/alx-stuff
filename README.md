@@ -55,4 +55,4 @@ MIT
 
 ---
 
-Made with ❤️ in Toronto, Canada 🇨🇦 by [Alexander Wondwossen](https://github.com/alxgraphy)
+Made with ❤️ in Toronto, Canada 🇨🇦 by [Alexander Wondwossen](https://github.com/thealxlabs)
