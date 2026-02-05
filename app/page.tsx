@@ -262,12 +262,12 @@ export default function AlxStuff() {
           <p>
             Made with ❤️ in Toronto, Canada 🇨🇦 by Alexander Wondwossen{" "}
             <a
-              href="https://github.com/alxgraphy"
+              href="https://github.com/thealxlabs"
               target="_blank"
               rel="noopener noreferrer"
               className="font-medium text-foreground underline underline-offset-2 transition-colors hover:text-primary"
             >
-              @alxgraphy
+              @thealxlabs
             </a>
           </p>
           <p className="mt-1 text-xs">
